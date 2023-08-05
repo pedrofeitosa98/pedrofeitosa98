@@ -14,7 +14,7 @@
     
 Sou um **Desenvolvedor Fullstack** e **Pixel Artista** cearense. Minha principal linguagem é o **JavaScript** e meu foco de desenvolvimento é o **Frontend**, minha atual stack de trabalho.
 
-Atualmente trabalho na criação de um produto SaaS do zero e na manutenção de um produto legado na Pedidu Software. Busco melhorar entregando novas features e valor nos produtos que trabalho. Meu foco de estudo e aprimoramento é me aperfeiçoar em design system, UI/UX e arquitetura de código.
+Busco melhorar entregando novas features e valor nos produtos que trabalho. Meu foco de estudo e aprimoramento é me aperfeiçoar em design system, UI/UX e arquitetura de código.
  
 <div align="left">
   <a href=https://www.linkedin.com/in/pedrofeitosa98/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
