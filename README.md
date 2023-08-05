@@ -24,12 +24,10 @@ Atualmente trabalho na criação de um produto SaaS do zero e na manutenção de
 
 <br>
 
----
+## 🛠 Tecnologias e Ferramentas
 
-<h3 align="center">Tecnologias e Ferramentas</h3>
-
-<h4 align="center">Frontend</h3>
-<div align="center">
+### 🎨 Frontend
+<div>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -37,10 +35,8 @@ Atualmente trabalho na criação de um produto SaaS do zero e na manutenção de
   <img align="center" src="https://img.shields.io/badge/styled--components-8A0886?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 
-<br>
-
-<h4 align="center">Backend</h3>
-<div align="center">
+### 🧱 Backend
+<div>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" src="https://img.shields.io/badge/{}%20Type%20ORM-DF3A01?style=for-the-badge&">
   <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -48,3 +44,15 @@ Atualmente trabalho na criação de um produto SaaS do zero e na manutenção de
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
   <img align="center" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
 </div>
+
+<br>
+
+## 🐱‍💻 O que faço atualmente...
+Atualmente atuo como Desenvolvedor Frontend na [Pedidu Software](https://github.com/pedidu-software) em um SaaS legado e no desenvolvimento de um novo sistema. Além de desenvolver, também ajudo na organização de tasks dos times de Frontend e Backend. As principais tecnologias e competências que aplico/pratico no meu trabalho são:
+- Desenvolvimento em React e Next + Typescript
+- Design System
+- Figma
+- Gitflow e versionamento
+- Tecnologias ágeis
+
+Como principal projeto pessoal, estou desenvolvendo um template em NextJS que você pode conferir [clicando aqui](https://github.com/pedrofeitosa98/pedrinho-next-template).
