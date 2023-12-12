@@ -55,4 +55,4 @@ Atualmente atuo como Desenvolvedor Frontend e UI/UX na [Pedidu Software](https:/
 - Gitflow e versionamento
 - Tecnologias ágeis
 
-Como principal projeto pessoal, estou desenvolvendo um template em NextJS que você pode conferir [clicando aqui](https://github.com/pedrofeitosa98/pedrinho-next-template).
+Como principal projeto pessoal, estou desenvolvendo um portal de conteúdo baseado em um servidor oldschool de Habbo Hotel, que você pode conferir [clicando aqui](https://nappanautas.vercel.app/).
