@@ -48,7 +48,7 @@ Busco melhorar entregando novas features e valor nos produtos que trabalho. Meu 
 <br>
 
 ## 🐱‍💻 O que faço atualmente...
-Atualmente atuo como Desenvolvedor Frontend e UI/UX na [Pedidu Software](https://github.com/pedidu-software) em um SaaS, desenvolvendo novos módulos de gestão e uma nova versão atualizada do sistema. Além de desenvolver, também ajudo na organização de tasks do time de desenvolvimento. As principais tecnologias e competências que aplico/pratico no meu trabalho são:
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FaculdadeDescomplica. Minha última experiência profissional foi atuando como Desenvolvedor Frontend e UI/UX na [Pedidu Software](https://github.com/pedidu-software) em um SaaS, desenvolvendo novos módulos de gestão e uma nova versão atualizada do sistema. Além de desenvolver, também ajudei na organização de tasks do time de desenvolvimento. As principais tecnologias e competências que apliquei no meu trabalho foram:
 - Desenvolvimento em React e Next + Typescript
 - Design System
 - Figma
